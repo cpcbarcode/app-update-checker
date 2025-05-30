@@ -1,6 +1,5 @@
 {
-  "latest_version_code": 1.0.1,
-  "latest_version_name": "1.0.1",
-  "apk_url": "https://drive.google.com/uc?id=YOUR_FILE_ID&export=download",
-  "changelog": "• Hỗ trợ in mã QR\n• Tối ưu giao diện\n• Thêm tab ngôn ngữ"
+  "version": "7.1.2",
+  "apk_url": "https://github.com/USERNAME/REPO/releases/download/v7.2.0/app-release.apk",
+  "changelog": "bản đầu tiên, tên app theo mặc định khi buil là: app-debug.apk"
 }
