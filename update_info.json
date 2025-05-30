@@ -1,5 +1,5 @@
 {
-  "version": "7.1.2",
+  "version": "7.1.3",
   "apk_url": "https://github.com/USERNAME/REPO/releases/download/v7.2.0/app-release.apk",
   "changelog": "bản đầu tiên, tên app theo mặc định khi buil là: app-debug.apk"
 }
